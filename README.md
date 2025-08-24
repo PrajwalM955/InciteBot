@@ -1,22 +1,22 @@
-# 🌟 InciteBot — AI-Powered Chatbot with Personality
+# 🤖 🥂 🧑‍🤝‍🧑 InciteBot — Smart Conversational AI
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-v1.24.1-orange.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Code Quality](https://img.shields.io/badge/code%20quality-passing-brightgreen.svg)]()
 
-An interactive AI chatbot built with Streamlit & Python featuring dynamic personalities, sentiment-aware responses, and a sleek modern UI.
+An interactive AI chatbot built with Streamlit and Python featuring adaptive personalities, sentiment-aware replies, and a clean modern interface.
 
 ---
 
-## ✨ Key Features
+## 📋 Key Features
 
-- 🎭 **Multiple Personas** — Choose between Amora (female) or Phillip (male).  
-- 🧑‍💻 **Dynamic Personality Modes** — Playful, Formal, or Sarcastic.  
-- 💬 **Sentiment-Aware Responses** — Bot adapts based on detected sentiment.  
-- 😀 **Emoji Reactions** — React to bot messages, with reaction counts displayed.  
-- 🎨 **Modern UI** — Chat bubbles, avatars, and typing indicators.  
-- 🎂 **Age-Based Personalization** — User interactions tailored by age.
+- 👥 **Multiple Personas** — Select between Amora (female) or Phillip (male).  
+- 🎭 **Flexible Personality Modes** — Playful, Formal, or Sarcastic.  
+- 🔍 **Sentiment-Aware Responses** — Bot tailors replies based on your mood.  
+- 👍 **Emoji Reactions** — React directly to chatbot messages with visible counts.  
+- 🖼️ **Clean UI** — Well-designed chat bubbles, avatars, and typing indicators.  
+- 🎉 **Age-Based Personalization** — Chat experience customized by your age.
 
 ---
 
